@@ -3,6 +3,9 @@
 Analytics Systems Technology (PLO2): Investigate and select data, analytics, and AI technologies to address real-world organizational questions or problems. (Introduced)
 Advanced Analytics (PLO3): Solve an organizational problem by integrating the principles, tools, and methods of AI and ML while making informed decisions about the design and deployment of systems in human environments and related workflows. (Practiced)
 
+Reading Material:
+https://machinelearningmastery.com/repeated-k-fold-cross-validation-with-python/
+
 # Project learning Outcomes
 After this project, I learned the critical role that techniques like computer vision and natural language processing (NLP) play in agent perception, compilation, and actions. Computer vision assists agents in interpreting visual data, while NLP enables them to understand and process textual information. These techniques are instrumental in compiling perceptual data into actionable insights for decision-making by agents.
 
